@@ -11,7 +11,7 @@ if next row is empty
    user input: Column 1 Title (item)
          Column 2 Title (Where is it placed)
          Column 3 Title (Scan unique QR code with scanner)
-save to excel (openpyxl)
+save to excel (openpyxl? pandas? xlrd/wt?)
 print this entry (this row)
 ```
 ## [2]
