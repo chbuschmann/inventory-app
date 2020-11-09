@@ -1,8 +1,8 @@
 # Inventory App
 
-## Select
-*[1] Create new item and attach new UUID from scanner
-*[2] Check UUID by scanning QR code
+## Select operation
+* [1] Create new item and attach new UUID from scanner
+* [2] Check UUID by scanning QR code
 
 ## [1]
 ```python
