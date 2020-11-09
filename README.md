@@ -16,11 +16,13 @@ print this entry (this row)
 ```
 ## [2]
 ```python
+while loop?
+
 print('Scan QR code now: ')
 scanner input()
 
 if code is in dataframe
- print data
+  print(data in friendly format)
 else:
- print('item not found')
+  print('item not found')
 ```
