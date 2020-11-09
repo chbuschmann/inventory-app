@@ -5,7 +5,7 @@
 *[2] Check UUID by scanning QR code
 
 ## [1]
-'''python
+```python
 if next row is empty
  for input in user_input:
    user input: Column 1 Title (item)
@@ -13,9 +13,9 @@ if next row is empty
          Column 3 Title (Scan unique QR code with scanner)
 save to excel (openpyxl)
 print this entry (this row)
-'''
+```
 ## [2]
-'''python
+```python
 print('Scan QR code now: ')
 scanner input()
 
@@ -23,4 +23,4 @@ if code is in dataframe
  print data
 else:
  print('item not found')
-'''
+```
