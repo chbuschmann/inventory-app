@@ -1,10 +1,10 @@
-#Inventory App
+# Inventory App
 
-##Select
+## Select
 *[1] Create new item and attach new UUID from scanner
 *[2] Check UUID by scanning QR code
 
-##[1]
+## [1]
 '''python
 if next row is empty
  for input in user_input:
@@ -14,7 +14,7 @@ if next row is empty
 save to excel (openpyxl)
 print this entry (this row)
 '''
-##[2]
+## [2]
 '''python
 print('Scan QR code now: ')
 scanner input()
